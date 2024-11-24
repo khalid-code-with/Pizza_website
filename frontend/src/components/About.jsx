@@ -12,14 +12,13 @@ const About = () => {
               <h1 className="heading">ABOUT US</h1>
               <p>The only thing we're serious about is food.</p>
             </div>
-            <p className="mid">
-              Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-              Provident possimus optio adipisci dolores impedit illum iusto
-              perferendis, laudantium quod accusamus consequuntur consectetur,
-              tempore nulla error iure reiciendis dolorem assumenda.
-              Necessitatibus fugit asperiores totam rem esse exercitationem
-              iusto ipsum qui dolore ex, accusantium repellat mollitia
-              repellendus.
+            <p className="mid " style={{color:"black"}}>
+               I m Khalid Khan  a web developer. At our restaurant  we
+              believe that food is a powerful way to bring people together  We
+              are passionate about offering fresh and tasty dishes  prepared
+              with the best ingredients  Our team is committed to making every
+              meal special  providing a warm and welcoming environment where you
+              can enjoy delicious food and great company
             </p>
             <Link to={"/"}>
               Explore Menu{" "}
